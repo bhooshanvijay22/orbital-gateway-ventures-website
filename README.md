@@ -1,7 +1,7 @@
 # Orbital Gateway Ventures - A NASA Space Apps Challenge Prototype
 Welcome to the Orbital Gateway Ventures prototype, a user-facing web interface designed for the NASA International Space Apps Challenge. This project presents a multi-phase business concept for a commercial hub in Low Earth Orbit, showcasing services from space tourism to orbital debris mitigation.
 
-[Live Demo Link Here] ← (Insert your live GitHub Pages link here once you deploy it)
+[https://bhooshanvijay22.github.io/orbital-gateway-ventures-website/] 
 
 ## Project Overview
 Orbital Gateway Ventures is a conceptual business with a mission to build a multi-purpose commercial hub in Low Earth Orbit. This prototype provides an interactive interface for potential clients—from individual adventurers to large-scale government and corporate agencies—to explore our phased service offerings:
